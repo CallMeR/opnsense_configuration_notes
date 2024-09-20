@@ -4,13 +4,13 @@
 
 OPNsense 防火墙的安装以及折腾手记。  
 
-- OPNsense 适用版本：24.1 - "Savvy Shark"  
+- OPNsense 适用版本：24.7 - "Thriving Tiger"  
 
 - 演示机：
-    - CPU：英特尔奔腾 Silver N6005 处理器
-    - 内存：16 GB
-    - 网卡：英特尔以太网控制器 I226-V
-    - 硬盘：SanDisk 500 GB NVMe 固态硬盘
+    - CPU：N6005
+    - 内存：16GB DDR4
+    - 网卡：I226-V
+    - 硬盘：256GB NVMe
 
 - 外部网络：
     - 光猫：桥接模式
